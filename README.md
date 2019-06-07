@@ -1,4 +1,3 @@
-<!DOCTYPE html> 
 <html> 
  
 <head> 
@@ -7,7 +6,7 @@
  
 <body> 
  
- <div id="t_div">Normal Text</div> 
+ <div id="t_div">Cracatoaaaa</div> 
  
  <button type="button" onclick="set_size();">Change Size</button> 
  
